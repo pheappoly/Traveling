@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5,
   .img-md-fluid {
     max-width: 100%; } }
 
-@media (max-width: 991.98px) {
+@media (max-width: 1000px) {
   .display-1, .display-3 {
     font-size: 3rem; } }
 

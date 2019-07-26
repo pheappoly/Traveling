@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Travaling &mdash; Website</title>
+    <title>Traveling &mdash; Website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -45,7 +45,7 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0"><a href="/" class="text-black h2 mb-0">Travelers</a></h1>
+            <h1 class="mb-0"><a href="/" class="text-black h2 mb-0">Traveling</a></h1>
           </div>
           <div class="col-10 col-md-8 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
@@ -57,10 +57,13 @@
                 <li class="has-children">
                   <a href="destination">Destinations</a>
                   <ul class="dropdown">
-                    <li><a href="#">Japan</a></li>
-                    <li><a href="#">Europe</a></li>
-                    <li><a href="#">China</a></li>
-                    <li><a href="#">France</a></li>
+    
+                    <li><a href="#">Phnom Penh</a></li>
+                    <li><a href="#">Sieam Reap</a></li>
+                    <li><a href="#">Takeo</a></li>
+                    <li><a href="#">Kos Kong</a></li>
+                    <li><a href="#">Kep</a></li>
+
                   </ul>
                 </li>
                 
@@ -105,7 +108,7 @@
 
    
 
-    <div class="site-blocks-cover inner-page-cover" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+    <div class="site-blocks-cover inner-page-cover" style="background-image: url(images/Angkoreathome.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
 
@@ -127,13 +130,13 @@
             <img src="images/hero_bg_2.jpg" alt="Image" class="img-fluid rounded">
           </div>
           <div class="col-md-6 pl-md-5">
-            <h2 class="font-weight-light text-black mb-4">About Company</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cumque eius modi expedita accusamus alias error totam ab magnam a mollitia magni, distinctio temporibus optio illo sapiente, odio unde natus.</p>
+            <h2 class="font-weight-light text-black mb-4">About Website</h2>
+            <p>Traveling is a website made specifically to provide people a way to make their journey easier and more enjoyable.</p>
 
             <ul class="list-unstyled">
-              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Vitae cumque eius modi expedita</span></li>
-              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Totam at maxime Accusantium</span></li>
-              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Distinctio temporibus</span></li>
+              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Offer places to visit</span></li>
+              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Offer items to buy</span></li>
+              <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Offer tour advices</span></li>
 
             </ul>
           </div>
@@ -186,127 +189,43 @@
     <div class="site-section block-13 bg-light">
   
 
-    <div class="container" data-aos="fade">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7">
-            <h2 class="font-weight-light text-black text-center">What People Says</h2>
-          </div>
-        </div>
-
-        <div class="nonloop-block-13 owl-carousel">
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_1.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>James Martin</em>, <a href="#">Traveler</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_2.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>Clair Augustin</em>, <a href="#">Traveler</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="item">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 mb-5">
-                  <img src="images/img_4.jpg" alt="Image" class="img-md-fluid">
-                </div>
-                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolorem quisquam laudantium, incidunt id laborum, tempora aliquid labore minus. Nemo maxime, veniam! Fugiat odio nam eveniet ipsam atque, corrupti porro&rdquo;</p>
-                  <p class="">&mdash; <em>James Martin</em>, <a href="#">Traveler</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section border-top">
-      <div class="container">
-        <div class="row text-center">
-          <div class="col-md-12">
-            <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="booking.html" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
     
     <footer class="site-footer">
       <div class="container">
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Travelers</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!</p>
+              <h3 class="footer-heading mb-4">About Traveling</h3>
+              <p>“Travel isn’t always pretty. It isn’t always comfortable. Sometimes it hurts, it even breaks your heart. But that’s okay. The journey changes you; it should change you. It leaves marks on your memory, on your consciousness, on your heart, and on your body. You take something with you. Hopefully, you leave something good behind.” – Anthony Bourdain</p>
             </div>
 
             
             
           </div>
           <div class="col-lg-4 mb-5 mb-lg-0">
+            
+          </div>
+
+          <div class="col-lg-4 mb-5 mb-lg-0">
+           
+
             <div class="row mb-5">
               <div class="col-md-12">
                 <h3 class="footer-heading mb-4">Navigations</h3>
               </div>
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">Destination</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">About</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="destination">Destination</a></li>
+                  <li><a href="discount">Discounts</a></li>
                 </ul>
               </div>
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Discounts</a></li>
+                  <li><a href="about">About Us</a></li>
+                  <li><a href="contact">Contact Us</a></li>
                 </ul>
               </div>
-            </div>
-
-            
-
-          </div>
-
-          <div class="col-lg-4 mb-5 mb-lg-0">
-           
-
-            <div class="mb-5">
-              <h3 class="footer-heading mb-2">Subscribe Newsletter</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit minima minus odio.</p>
-
-              <form action="#" method="post">
-                <div class="input-group mb-3">
-                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
-                  <div class="input-group-append">
-                    <button class="btn btn-primary text-white" type="button" id="button-addon2">Send</button>
-                  </div>
-                </div>
-              </form>
-
             </div>
 
           </div>
